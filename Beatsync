@@ -1,0 +1,18 @@
+# BeatSync 🎵
+
+**BeatSync** is a Node.js + Socket.IO web application that allows multiple users to play the same music simultaneously across different devices, similar to “party mode”. Guests can create or join a music session, and the host can upload tracks in real-time.
+
+---
+
+## Features
+
+- Guest login (enter a name before joining)
+- Create or join a music session
+- Host can upload MP3 tracks
+- Real-time music sync with Socket.IO
+- Shows list of connected users
+- Simple, mobile-first interface
+
+---
+
+## Folder Structure
